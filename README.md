@@ -1,5 +1,5 @@
 # Henry House
-<hr>
+
 
 ## Highlighted Work
 
