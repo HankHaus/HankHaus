@@ -2,7 +2,6 @@
 <hr>
 
 ## Highlighted Work
-<hr>
 
 ### Algorithm Lair - Front-End Capstone
 <br>
