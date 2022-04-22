@@ -1,5 +1,7 @@
 # Henry House
-
+I have always liked tech-related things be it hardware or software. I would be producing music for an
+artist and often find that I was more interested in the recording software than the song. That curiosity
+eventually led me to enroll in Nashville Software School! Through NSS, I was able to further explore my passion for technology and develop those skills to solve complex problems.
 
 ## Highlighted Work
 
